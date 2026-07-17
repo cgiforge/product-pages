@@ -18,7 +18,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
 
 .el-emro0sv241 {
   left: 280px;
-  top: 34px;
+  top: 31px;
   width: 400px;
   height: 60px;
   z-index: 1;
@@ -31,18 +31,18 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
 }
 
 .el-emro2d9p22 {
-  left: 223px;
-  top: 214px;
-  width: 486px;
-  height: 300px;
+  left: 67px;
+  top: 451px;
+  width: 827px;
+  height: 63px;
   z-index: 1;
   background: #f2f2f5;
   border-radius: 12px;
 }
 
 .el-emro0t6ua2 {
-  left: 403px;
-  top: 324px;
+  left: 698px;
+  top: 463px;
   width: 154px;
   height: 40px;
   z-index: 2;
@@ -60,8 +60,8 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
 }
 
 .el-emro0uftw346 {
-  left: 380px;
-  top: 253px;
+  left: 93px;
+  top: 437px;
   width: 200px;
   height: 52px;
   z-index: 2;
@@ -80,7 +80,7 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
 
 .el-emro5wshx651 {
   left: 327px;
-  top: 108px;
+  top: 327px;
   width: 307px;
   height: 46px;
   z-index: 3;
@@ -93,10 +93,10 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
 }
 
 .el-emro5xfte1 {
-  left: 256px;
-  top: 381px;
+  left: 270px;
+  top: 469px;
   width: 420px;
-  height: 120px;
+  height: 28px;
   z-index: 6;
   color: #333333;
   font-size: 16px;
@@ -107,22 +107,24 @@ body { font-family: 'Inter', 'Segoe UI', sans-serif; -webkit-font-smoothing: ant
   word-wrap: break-word;
 }
 
-.el-emro5yhrg3 {
-  left: 226px;
-  top: 538px;
-  width: 480px;
-  height: 270px;
-  z-index: 7;
-  border-radius: 0px;
+.el-emro5zm584 {
+  left: 65px;
+  top: 536px;
+  width: 831px;
+  height: 596px;
+  z-index: 8;
+  border-radius: 31px;
   overflow: hidden;
+  border: 3px solid #000000;
+  box-shadow: 0 11px 27.5px rgba(0,0,0,.25);
 }
 
-.el-emro5zm584 {
-  left: 266px;
-  top: 829px;
+.el-emro6po195 {
+  left: 280px;
+  top: 125px;
   width: 400px;
-  height: 260px;
+  height: 3px;
   z-index: 8;
-  border-radius: 0px;
-  overflow: hidden;
+  background: #e0e0e6;
+  border-radius: 99px;
 }
